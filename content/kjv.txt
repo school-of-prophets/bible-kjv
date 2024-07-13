@@ -1,0 +1,241 @@
+title: The Holy Bible (KJV)
+viewer-path: /bible-kjv/
+
+===1>
+collection-of-books: The Old Testament
+
+===>
+include: ot/genesis.txt
+
+===>
+include: ot/exodus.txt
+
+===>
+include: ot/leviticus.txt
+
+===>
+include: ot/numbers.txt
+
+===>
+include: ot/deuteronomy.txt
+
+===>
+include: ot/joshua.txt
+
+===>
+include: ot/judges.txt
+
+===>
+include: ot/ruth.txt
+
+===>
+include: ot/1-samuel.txt
+
+===>
+include: ot/2-samuel.txt
+
+===>
+include: ot/1-kings.txt
+
+===>
+include: ot/2-kings.txt
+
+===>
+include: ot/1-chronicles.txt
+
+===>
+include: ot/2-chronicles.txt
+
+===>
+include: ot/ezra.txt
+
+===>
+include: ot/nehemiah.txt
+
+===>
+include: ot/esther.txt
+
+===>
+include: ot/job.txt
+
+===>
+include: ot/psalms.txt
+
+===>
+include: ot/proverbs.txt
+
+===>
+include: ot/ecclesiastes.txt
+
+===>
+include: ot/song-of-solomon.txt
+
+===>
+include: ot/isaiah.txt
+
+===>
+include: ot/jeremiah.txt
+
+===>
+include: ot/lamentations.txt
+
+===>
+include: ot/ezekiel.txt
+
+===>
+include: ot/daniel.txt
+
+===>
+include: ot/hosea.txt
+
+===>
+include: ot/joel.txt
+
+===>
+include: ot/amos.txt
+
+===>
+include: ot/obadiah.txt
+
+===>
+include: ot/jonah.txt
+
+===>
+include: ot/micah.txt
+
+===>
+include: ot/nahum.txt
+
+===>
+include: ot/habakkuk.txt
+
+===>
+include: ot/zephaniah.txt
+
+===>
+include: ot/haggai.txt
+
+===>
+include: ot/zechariah.txt
+
+===>
+include: ot/malachi.txt
+
+
+
+===>
+collection-of-books: The New Testament
+
+===>
+include: nt/matthew.txt
+
+===>
+include: nt/mark.txt
+
+===>
+include: nt/luke.txt
+
+===>
+include: nt/john.txt
+
+===>
+include: nt/acts.txt
+
+===>
+include: nt/romans.txt
+
+===>
+include: nt/1-corinthians.txt
+
+===>
+include: nt/2-corinthians.txt
+
+===>
+include: nt/galatians.txt
+
+===>
+include: nt/ephesians.txt
+
+===>
+include: nt/philippians.txt
+
+===>
+include: nt/colossians.txt
+
+===>
+include: nt/1-thessalonians.txt
+
+===>
+include: nt/2-thessalonians.txt
+
+===>
+include: nt/1-timothy.txt
+
+===>
+include: nt/2-timothy.txt
+
+===>
+include: nt/titus.txt
+
+===>
+include: nt/philemon.txt
+
+===>
+include: nt/hebrews.txt
+
+===>
+include: nt/james.txt
+
+===>
+include: nt/1-peter.txt
+
+===>
+include: nt/2-peter.txt
+
+===>
+include: nt/1-john.txt
+
+===>
+include: nt/2-john.txt
+
+===>
+include: nt/3-john.txt
+
+===>
+include: nt/jude.txt
+
+===>
+include: nt/revelation.txt
+
+===>
+collection-of-books: The Apocrypha
+
+include: apo/1-esdras.txt
+
+include: apo/2-esdras.txt
+
+include: apo/tobit.txt
+
+include: apo/judith.txt
+
+include: apo/esther.txt
+
+include: apo/wisdom-of-solomon.txt
+
+include: apo/ecclesiasticus.txt
+
+include: apo/baruch.txt
+
+include: apo/letter-of-jeremiah.txt
+
+include: apo/prayer-of-azariah.txt
+
+include: apo/susanna.txt
+
+include: apo/bel-and-the-dragon.txt
+
+include: apo/prayer-of-manasseh.txt
+
+include: apo/1-maccabees.txt
+
+include: apo/2-maccabees.txt
